@@ -1,4 +1,4 @@
-#Smart-Brain: Face Detection Site
+## Smart-Brain: Face Detection Site #
 
 Ongoing project created following the Udemy course "The Complete Web Developer in 2023: Zero to Mastery". 
 
