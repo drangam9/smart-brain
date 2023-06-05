@@ -1,0 +1,9 @@
+.Tilt {
+  background: linear-gradient(90deg, #7912ac, #004a86 100%);
+  width: 100px;
+  height: 100px;
+}
+.tilt-wrap {
+  width: 100px;
+  height: 100px;
+}
