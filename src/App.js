@@ -14,8 +14,15 @@ const returnRequestOptions = (imageUrl) => {
   const APP_ID = 'my-app';
   // Change these to whatever model and image URL you want to use
   const IMAGE_URL = imageUrl;
-
-
+   
+   
+   
+   
+   
+   
+   
+   
+  
   const raw = JSON.stringify({
     "user_app_id": {
       "user_id": USER_ID,
