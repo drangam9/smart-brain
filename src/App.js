@@ -16,8 +16,6 @@ const returnRequestOptions = (imageUrl) => {
   const IMAGE_URL = imageUrl;
 
 
-
-
   const raw = JSON.stringify({
     "user_app_id": {
       "user_id": USER_ID,
